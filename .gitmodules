@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/mudit-palvadi/lynk-client.git
+[submodule "web"]
+	path = web
+	url = https://github.com/mudit-palvadi/lynk-web.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/mudit-palvadi/lynk-backend.git
