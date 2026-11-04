@@ -30,7 +30,7 @@
   <img src="https://play-lh.googleusercontent.com/k1o0C9aopd84O8Va6ofitNV9fHuWH0tOQ5kV0Mon6G1zBLMMXMQxCieN1B2pL9BSbR1Wx_fKoy03epVA-oMo=w526" width="150" alt="LynkShare screenshot from the Google Play listing, image 4" />
 </p>
 
-Screenshots come from the Google Play listing. Appearance can vary by release and theme
+Screenshots come from the Google Play listing. Appearance can vary by release and theme.
 
 ## What is LynkShare?
 
