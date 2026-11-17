@@ -295,10 +295,10 @@ Do not open a public issue containing vulnerability details.
 
 ## License
 
-The LynkShare mobile app is released under the
+The LynkShare mobile app and website are released under the
 [GNU General Public License v3.0 only](https://github.com/mudit-palvadi/lynkshare-mobile/blob/main/LICENSE)
-(`GPL-3.0-only`). The backend and web repositories do not currently declare a
-license; check each repository before redistributing or reusing their code.
+(`GPL-3.0-only`). The backend does not currently declare a license; check that
+repository before redistributing or reusing its code.
 
 ---
 
